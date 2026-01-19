@@ -16,3 +16,7 @@ This repo is used for Git training.
   college : Sinhgad Institute of Technology Lonavala 
   place : Lonavala  
   
+
+# Wrong commit
+ The commit is made mistakenly.
+   
